@@ -19,7 +19,7 @@ I am building a hands-on cloud engineering portfolio by designing, deploying, se
 - Building production-ready AWS projects
 - Improving Terraform and Infrastructure as Code skills
 - Practicing Kubernetes and DevOps workflows
-- Sharing my learning journey through GitHub, LinkedIn, and YouTube
+- Sharing my learning journey through GitHub, LinkedIn and YouTube
 
 ---
 
