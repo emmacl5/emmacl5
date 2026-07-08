@@ -14,6 +14,16 @@ I am building a hands-on cloud engineering portfolio by designing, deploying, se
 
 ---
 
+## 🎓 Education
+
+**Bachelor of Engineering (B.Eng.) – Information and Communications Technology**
+
+**Metropolia University of Applied Sciences** 🇫🇮
+
+During my studies, I built a strong foundation in Networking, Cloud computing, databases, operating systems and IT infrastructure, which now supports my work in Cloud and DevOps engineering.
+
+---
+
 ## 🚀 Current Focus
 
 - Building production-ready AWS projects
