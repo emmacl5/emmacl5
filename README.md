@@ -48,7 +48,7 @@ I am building a hands-on cloud engineering portfolio by designing, deploying, se
 | Platform | Link |
 |--------- |------|
 | GitHub   | https://github.com/emmacl5 |
-| LinkedIn | https://www.linkedin.com/in/emmanuel-ouamba-418421116/ |
+| LinkedIn | https://www.linkedin.com/in/claude-emmanuel-ouamba-418421116/ |
 
 
 ---
