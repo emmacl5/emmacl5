@@ -38,8 +38,6 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 
 <h2>🏅 Certifications</h2>
 
-<h2>🏅 Certifications</h2>
-
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/f8a6639e-03b9-4fe5-8b2c-42e4a090d76a">
     <img src="assets/certifications/aws-certified-solutions-architect-associate.png"
