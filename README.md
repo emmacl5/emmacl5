@@ -20,7 +20,21 @@ My focus is turning infrastructure requirements into **reliable, scalable and se
 
 <p align="center">
   <b>Cloud • Infrastructure as Code • Linux • Containers • Kubernetes • CI/CD • Automation • Observability</b>
-</p>
+</p> 
+
+## 🐧 Linux & Systems Administration
+
+Hands-on experience administering Linux systems and using Linux as the foundation for Cloud and DevOps workloads.
+
+- 👤 **User & Group Management** — users, groups, permissions and sudo access
+- 🔐 **SSH Administration & Hardening** — secure remote access and SSH configuration
+- 🛡️ **Security** — SELinux, permissions and system hardening
+- 🔥 **Networking & Firewall** — Linux networking, ports and iptables
+- ⚙️ **Services & Processes** — systemd, services, processes and logs
+- ⏰ **Task Automation** — cron jobs and Bash scripting
+- 📦 **Package Management** — software installation and system updates
+- 🤖 **Configuration Management** — Ansible automation
+- 🌐 **Web & Application Services** — Apache, Tomcat and MariaDB
 
 ## 🏅 Certifications
 
