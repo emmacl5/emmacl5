@@ -36,11 +36,17 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 - 🤖 **Configuration Management** — Ansible automation
 - 🌐 **Web & Application Services** — Apache, Tomcat and MariaDB
 
-## 🏅 Certifications
+<h2>🏅 Certifications</h2>
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Cloud Practitioner
-- HashiCorp Certified: Terraform Associate
+<p align="center">
+
+<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+
+<img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+
+</p>
 
 ---
 
