@@ -38,14 +38,14 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 
 <h2>🏅 Certifications</h2>
 
+<h2>🏅 Certifications</h2>
+
 <p align="center">
-
-<img src="https://img.shields.io/badge/AWS-Solutions%20Architect%20Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-
-<img src="https://img.shields.io/badge/HashiCorp-Terraform%20Associate-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Microsoft-Azure%20Fundamentals%20AZ--900-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-
+  <a href="https://www.credly.com/earner/earned/badge/f8a6639e-03b9-4fe5-8b2c-42e4a090d76a">
+    <img src="assets/certifications/aws-certified-solutions-architect-associate.png"
+         alt="AWS Certified Solutions Architect – Associate"
+         width="150">
+  </a>
 </p>
 
 ---
