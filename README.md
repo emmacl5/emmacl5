@@ -12,6 +12,43 @@ My focus is turning infrastructure requirements into **reliable, scalable and se
 
 ---
 
+<h2>🛠️ Tech Stack</h2>
+
+<h3>☁️ Cloud</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,azure" />
+</p>
+
+<h3>🏗️ Infrastructure as Code</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=terraform" />
+</p>
+
+<h3>🐧 Linux & Systems</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,redhat,bash" />
+</p>
+
+<h3>☸️ Containers & Orchestration</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes" />
+</p>
+
+<h3>🔄 CI/CD & Automation</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=githubactions,ansible,git" />
+</p>
+
+<h3>📊 Monitoring & Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=grafana,prometheus,vscode" />
+</p>
+
+<h3>💻 Scripting</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
+
 ## 🏅 Certifications
 
 - AWS Certified Solutions Architect – Associate
