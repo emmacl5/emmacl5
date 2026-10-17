@@ -37,16 +37,19 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 - 🌐 **Web & Application Services** — Apache, Tomcat and MariaDB
 
 
+
 <h2>🏅 Certifications</h2>
 
 <p align="center">
-<a href="https://www.credly.com/earner/earned/badge/f8a6639e-03b9-4fe5-8b2c-42e4a090d76a"><img src="assets/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="150"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://www.credly.com/earner/earned/badge/6f765060-1854-4955-8adf-d602dcef0f0a"><img src="assets/certifications/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified: Terraform Associate (003)" width="150"></a>
+<a href="https://www.credly.com/earner/earned/badge/f8a6639e-03b9-4fe5-8b2c-42e4a090d76a"><img src="assets/certifications/aws-certified-solutions-architect-associate.png" alt="AWS Certified Solutions Architect – Associate" width="140"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://www.credly.com/earner/earned/badge/6f765060-1854-4955-8adf-d602dcef0f0a"><img src="assets/certifications/hashicorp-certified-terraform-associate-003.png" alt="HashiCorp Certified Terraform Associate (003)" width="140"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/ClaudeEmmanuelOuamba-8167/7EF95122304D3E16?sharingId=14A507CB732200E2"><img src="assets/certifications/microsoft-azure-fundamentals.svg" alt="Microsoft Certified Azure Fundamentals AZ-900" width="140"></a>
 </p>
 
 <p align="center">
-<strong>AWS Solutions Architect – Associate</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Terraform Associate (003)</strong>
+<strong>AWS Solutions Architect</strong> &nbsp; • &nbsp; <strong>Terraform Associate</strong> &nbsp; • &nbsp; <strong>Azure Fundamentals</strong>
 </p>
+  
 
 
 ## 🎓 Education
