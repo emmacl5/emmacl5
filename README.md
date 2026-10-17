@@ -71,15 +71,7 @@ During my studies, I built a strong foundation in Networking, Cloud computing, d
 
 ---
 
-## 🛠️ Tech Stack
 
-**Cloud:** AWS, Azure  
-**Infrastructure as Code:** Terraform, CloudFormation  
-**DevOps:** Git, GitHub, CI/CD, Docker, Kubernetes  
-**Languages:** Python, Bash, JavaScript  
-**Monitoring:** CloudWatch, Prometheus, Grafana  
-
----
 
 ## 📌 Featured Projects
 
