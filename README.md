@@ -62,12 +62,6 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <b>AWS Certified Solutions Architect – Associate</b>
-  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
-  <b>HashiCorp Certified: Terraform Associate (003)</b>
-</p>
 ---
 
 ## 🎓 Education
