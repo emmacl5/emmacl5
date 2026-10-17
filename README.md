@@ -47,7 +47,7 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 <p align="center">
 <strong>AWS Solutions Architect – Associate</strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Terraform Associate (003)</strong>
 </p>
----
+
 
 ## 🎓 Education
 
