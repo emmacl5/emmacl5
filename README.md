@@ -36,16 +36,38 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 - 🤖 **Configuration Management** — Ansible automation
 - 🌐 **Web & Application Services** — Apache, Tomcat and MariaDB
 
+
 <h2>🏅 Certifications</h2>
 
-<p align="center">
-  <a href="https://www.credly.com/earner/earned/badge/f8a6639e-03b9-4fe5-8b2c-42e4a090d76a">
-    <img src="assets/certifications/aws-certified-solutions-architect-associate.png"
-         alt="AWS Certified Solutions Architect – Associate"
-         width="150">
-  </a>
-</p>
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/earner/earned/badge/f8a6639e-03b9-4fe5-8b2c-42e4a090d76a">
+        <img src="assets/certifications/aws-certified-solutions-architect-associate.png"
+             alt="AWS Certified Solutions Architect – Associate"
+             width="150">
+      </a>
+      <br>
+      <strong>AWS Certified Solutions Architect – Associate</strong>
+    </td>
 
+    <td align="center" width="50%">
+      <a href="https://www.credly.com/earner/earned/badge/6f765060-1854-4955-8adf-d602dcef0f0a">
+        <img src="assets/certifications/hashicorp-certified-terraform-associate-003.png"
+             alt="HashiCorp Certified: Terraform Associate (003)"
+             width="150">
+      </a>
+      <br>
+      <strong>HashiCorp Certified: Terraform Associate (003)</strong>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <b>AWS Certified Solutions Architect – Associate</b>
+  &nbsp;&nbsp;&nbsp; • &nbsp;&nbsp;&nbsp;
+  <b>HashiCorp Certified: Terraform Associate (003)</b>
+</p>
 ---
 
 ## 🎓 Education
