@@ -51,6 +51,26 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 </p>
   
 
+## 📌 Featured Cloud & DevOps Projects
+
+### ☁️ AWS Infrastructure with Terraform
+
+**Repository:** [View Project on GitHub](https://github.com/emmacl5/aws-tf-baseline)
+
+**Technologies:** AWS · Terraform · VPC · S3 · DynamoDB
+
+Infrastructure as Code project demonstrating:
+
+- AWS VPC networking with public and private subnets
+- Terraform modules for reusable infrastructure
+- Remote Terraform state using Amazon S3
+- State locking and infrastructure configuration
+- AWS networking components including NAT Gateway and Internet Gateway
+
+**Focus:** Infrastructure automation, modular design, and cloud networking.
+
+---
+
 
 ## 🎓 Education
 
@@ -73,15 +93,6 @@ During my studies, I built a strong foundation in Networking, Cloud computing, d
 
 
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| AWS Mini Projects | Hands-on AWS portfolio projects with architecture diagrams, screenshots, deployment guides, and security best practices | AWS, S3, CloudFront, Lambda, DynamoDB |
-| 100 Days of DevOps | Practical Linux, Ansible, Git, Docker, Kubernetes, and DevOps labs | Linux, Ansible, Docker, Kubernetes |
-| Production-Ready Static Website | Secure static website deployed with S3, CloudFront, OAC, and private bucket access | S3, CloudFront, OAC |
-
----
 
 ## 🌐 Connect with Me
 
