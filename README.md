@@ -1,8 +1,14 @@
-# Hi, I'm Emmanuel 👋
+# 👋 Hi, I'm Claude Emmanuel
 
-☁️ **Cloud & DevOps Engineer** focused on AWS, Terraform, Kubernetes, automation and production-ready cloud projects.
+## ☁️ Cloud & DevOps Engineer
 
-I am building a hands-on cloud engineering portfolio by designing, deploying, securing, documenting and sharing real-world AWS and DevOps projects.
+### AWS • Azure • Terraform • Kubernetes • Linux
+
+I build, automate and secure cloud infrastructure using **AWS, Azure, Terraform, Kubernetes and Linux**.
+
+My focus is turning infrastructure requirements into **reliable, scalable and secure cloud solutions** through Infrastructure as Code, automation, container orchestration and DevOps practices.
+
+> **BUILD → AUTOMATE → SECURE → OPERATE**
 
 ---
 
