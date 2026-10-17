@@ -106,23 +106,6 @@ Hands-on Azure administration labs focused on identity, access management, stora
 **Focus:** Azure administration, identity and access management, cloud security, and infrastructure operations.
 
 
-### ☸️ Containerized Microservices on Amazon EKS
-
-**Repository:** [View Kubernetes Project](https://github.com/emmacl5/03-containerized-microservices-on-eks)
-
-**Technologies:** Kubernetes · Docker · Amazon EKS · AWS · Microservices
-
-Hands-on project exploring containerized application deployment and Kubernetes orchestration on AWS.
-
-**Project Objectives:**
-- Containerize application services using Docker
-- Understand Kubernetes Pods, Deployments, and Services
-- Practice container orchestration and service networking
-- Explore running microservices on Amazon EKS
-- Develop Kubernetes troubleshooting and deployment skills
-
-**Focus:** Container orchestration, Kubernetes administration, and cloud-native application deployment.
-
 
 
 ---
