@@ -81,7 +81,7 @@ Built a serverless URL-shortening application using AWS managed services, featur
 - AWS Lambda functions for serverless application logic.
 - Amazon DynamoDB for URL mapping and persistent storage.
 
-**Focus:** Serverless computing, REST APIs, and cloud-native application architecture.
+**Focus:** Serverless computing, REST APIs and cloud-native application architecture.
 
 
 ### 🔷 Microsoft Azure Administrator Labs
