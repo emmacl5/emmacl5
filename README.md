@@ -75,15 +75,13 @@ Designed an AWS infrastructure baseline using Terraform, featuring:
 
 **Technologies:** AWS Lambda · Amazon API Gateway · DynamoDB · Python
 
-A serverless URL-shortening application built using AWS managed services.
+Built a serverless URL-shortening application using AWS managed services, featuring:
 
-**Key Features:**
-- REST API endpoints using Amazon API Gateway
-- Serverless application logic with AWS Lambda
-- URL mapping and storage using DynamoDB
-- Cloud-native architecture without managing servers
+- REST API endpoints powered by Amazon API Gateway.
+- AWS Lambda functions for serverless application logic.
+- Amazon DynamoDB for URL mapping and persistent storage.
 
-**Focus:** Serverless computing, API development and AWS application architecture.
+**Focus:** Serverless computing, REST APIs, and cloud-native application architecture.
 
 
 ### 🔷 Microsoft Azure Administrator Labs
