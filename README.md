@@ -88,18 +88,15 @@ Built a serverless URL-shortening application using AWS managed services, featur
 
 **Repository:** [View Azure Administrator Labs](https://github.com/emmacl5/az-104-azure-administrator-labs)
 
-**Technologies:** Microsoft Azure · Microsoft Entra ID · Azure RBAC · Azure Storage · Azure Virtual Machines
+**Technologies:** Microsoft Azure · Entra ID · Azure RBAC · Azure Storage
 
-Hands-on Azure administration labs focused on identity, access management, storage and cloud infrastructure.
+Hands-on Azure administration labs covering:
 
-**Key Features:**
-- Microsoft Entra ID user and group administration
-- Role-Based Access Control (RBAC) and permission management
-- Azure Storage accounts, SAS tokens, and Azure Files
-- Storage redundancy and replication configurations
-- Azure virtual machine provisioning and network security
+- Microsoft Entra ID user and group management.
+- Role-Based Access Control (RBAC) and cloud permissions.
+- Azure Storage, SAS tokens, Azure Files, and storage replication.
 
-**Focus:** Azure administration, identity and access management, cloud security and infrastructure operations.
+**Focus:** Azure administration, identity and access management and cloud security.
 
 
 
