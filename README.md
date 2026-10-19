@@ -94,7 +94,7 @@ Hands-on Azure administration labs covering:
 
 - Microsoft Entra ID user and group management.
 - Role-Based Access Control (RBAC) and cloud permissions.
-- Azure Storage, SAS tokens, Azure Files, and storage replication.
+- Azure Storage, SAS tokens, Azure Files and storage replication.
 
 **Focus:** Azure administration, identity and access management and cloud security.
 
