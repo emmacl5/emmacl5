@@ -56,19 +56,17 @@ Hands-on experience administering Linux systems and using Linux as the foundatio
 
 ### ☁️ AWS Infrastructure with Terraform
 
-**Repository:** [View Project on GitHub](https://github.com/emmacl5/aws-tf-baseline)
+**Repository:** [View Project on GitHub](https://github.com/emmacl5/aws-terraform-production-baseline)
 
 **Technologies:** AWS · Terraform · VPC · S3 · DynamoDB
 
-Infrastructure as Code project demonstrating:
+Designed an AWS infrastructure baseline using Terraform, featuring:
 
-- AWS VPC networking with public and private subnets
-- Terraform modules for reusable infrastructure
-- Remote Terraform state using Amazon S3
-- State locking and infrastructure configuration
-- AWS networking components including NAT Gateway and Internet Gateway
+- Modular VPC networking with public and private subnets, NAT Gateway and Internet Gateway.
+- Remote Terraform state stored in Amazon S3 with DynamoDB-based state locking.
+- Reusable Infrastructure as Code modules for consistent cloud provisioning.
 
-**Focus:** Infrastructure automation, modular design, and cloud networking.
+**Focus:** Infrastructure automation, cloud networking and reusable Terraform architecture.
 
 
 ### ⚡ AWS Serverless URL Shortener
@@ -85,7 +83,7 @@ A serverless URL-shortening application built using AWS managed services.
 - URL mapping and storage using DynamoDB
 - Cloud-native architecture without managing servers
 
-**Focus:** Serverless computing, API development, and AWS application architecture.
+**Focus:** Serverless computing, API development and AWS application architecture.
 
 
 ### 🔷 Microsoft Azure Administrator Labs
@@ -94,7 +92,7 @@ A serverless URL-shortening application built using AWS managed services.
 
 **Technologies:** Microsoft Azure · Microsoft Entra ID · Azure RBAC · Azure Storage · Azure Virtual Machines
 
-Hands-on Azure administration labs focused on identity, access management, storage, and cloud infrastructure.
+Hands-on Azure administration labs focused on identity, access management, storage and cloud infrastructure.
 
 **Key Features:**
 - Microsoft Entra ID user and group administration
@@ -103,7 +101,7 @@ Hands-on Azure administration labs focused on identity, access management, stora
 - Storage redundancy and replication configurations
 - Azure virtual machine provisioning and network security
 
-**Focus:** Azure administration, identity and access management, cloud security, and infrastructure operations.
+**Focus:** Azure administration, identity and access management, cloud security and infrastructure operations.
 
 
 
